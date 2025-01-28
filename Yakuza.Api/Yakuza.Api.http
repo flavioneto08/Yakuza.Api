@@ -1,0 +1,6 @@
+@Yakuza.Api_HostAddress = http://localhost:5168
+
+GET {{Yakuza.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
